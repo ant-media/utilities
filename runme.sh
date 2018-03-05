@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /utilities/happytime-rtsp-server
+cd /usr/local/onvif/happytime-rtsp-server
 ./rtspserver &
 cd ..
 ./onvifserver &
