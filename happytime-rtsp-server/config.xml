@@ -38,7 +38,7 @@
 			<framerate></framerate>
 		</video>
 		<audio>
-			<codec>G711U</codec>
+			<codec>AAC</codec>
 			<samplerate></samplerate>
 			<channels></channels>
 		</audio>
