@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
-	<serverip>127.0.0.1</serverip>
+	<serverip>0.0.0.0</serverip>
 	<serverport>6554</serverport>
 	<loop_nums>-1</loop_nums>
 	<multicast>1</multicast>	
